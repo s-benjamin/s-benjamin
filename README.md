@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🔭 je tavaille actuemllement à la construction de mon profil
+🌱 j'apprens actuellement le langage html et css
+👯 je coolabore sur un projet de devellepement web
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 contctectez moi
+⚡ Fun fact: ...
+
+
 <!--
 **s-benjamin/s-benjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
